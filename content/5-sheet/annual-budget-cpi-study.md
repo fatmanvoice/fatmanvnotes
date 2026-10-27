@@ -159,6 +159,12 @@ $\text{CPI}=\left(\frac{\sum (P_{tn}\times Q_{bo})}{\sum (P_{bo}\times Q_{bo})}\
   
 - **賴清德政府時期（114～116年度）：** 預算規模迅速突破 3 兆元，至 116 年度原編案達 **3.92 兆元**。主要反映了對美軍購付款期程高峰、全民共享政策（普發現金）、擴大社福津貼與防衛韌性整備之經費挹注。
 
+***
+
+![[annual-budget-cpi-study-line.png]]
+
+https://share.gemini.google/IRRYcNGfyp4u
+
 (預留)
 
 > [!info] 🎥 本文參考影音與文獻
